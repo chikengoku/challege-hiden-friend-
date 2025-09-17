@@ -16,3 +16,5 @@
 ## La funcion 'sortearAmigo()' , deacuerdo a la funcion 'randomNumber2()' decide el nombre de la lista deacuerdo al numero ramdom.  
 
 ## Al dar click en el boton 'sortear amigo' se activa la funcion anterior, mostrando como resultado 'Tu nombre secreto es ${listsFriends[indicea]}' donde 'indicea' es otra forma de llamar a el numero secreto.
+
+### En el codigo se ven varias lineas con el que comiezan en '//' estas son las pruebas que realice para probar opciones, intentos que me parece valido para mi dejar los intentos realizados.
